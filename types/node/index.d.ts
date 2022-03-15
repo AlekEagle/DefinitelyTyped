@@ -40,6 +40,7 @@
 //                 NodeJS Contributors <https://github.com/NodeJS>
 //                 Linus Unnebäck <https://github.com/LinusU>
 //                 wafuwafu13 <https://github.com/wafuwafu13>
+//                 Alek Evans <https://github.com/AlekEagle>
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 
 /**
@@ -107,6 +108,7 @@
 /// <reference path="punycode.d.ts" />
 /// <reference path="querystring.d.ts" />
 /// <reference path="readline.d.ts" />
+/// <reference path="readline/promises.d.ts" />
 /// <reference path="repl.d.ts" />
 /// <reference path="stream.d.ts" />
 /// <reference path="stream/promises.d.ts" />
